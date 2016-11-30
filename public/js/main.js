@@ -1,0 +1,20 @@
+$(document).ready(function(){
+	$('picture1').hover(function(){
+		$('changetxt').text("This computer can be fully customized to meet your needs. With up to an Intel core i3 6100 this computer makes for a excellent work station for students. This lighter load pc come equipped with a GTX 1050 ti to handle lower end gaming and packs enough power to run photoshop no problem")
+	});
+	$('picture2').click(function(){
+		$('changetxt').text()
+	});
+	$('picture3').click(function(){
+		$('changetxt').text()
+	});
+	$('picture4').click(function(){
+		$('changetxt').text()
+	});
+	$('picture5').click(function(){
+		$('changetxt').text()
+	});
+	$('picture6').click(function(){
+		$('changetxt').text()
+	});
+});
